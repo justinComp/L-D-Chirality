@@ -1,0 +1,5 @@
+To begin a simulation, download all the files within this folder, and open up VMD.
+
+Go to extensions, Tk console, and naviage to the folder that contains the makegrid file.
+
+Follow the makegrid file instructions within the .TCL file and put the necessary commands in the TK console to create your simulation box.
